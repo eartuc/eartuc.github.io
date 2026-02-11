@@ -9,13 +9,7 @@
 
     <h1>test 2</h1>
     <p>link:</p>
-
-    <ul>
-        <li>
-            <!-- Link to another site (external) -->
-            Link [Homepahe](https://www.artuc.org/) ...
-        </li>
-    </ul>
+    <a href="https://www.artuc.org">Homepage</a>
 
 </body>
 </html>

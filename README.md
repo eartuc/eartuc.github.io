@@ -8,7 +8,7 @@
 <body>
 
     <h1>test 2</h1>
-    <p>link:</p>
+    <p>link 1:</p>
     <a href="https://www.artuc.org">Homepage</a>
 
 </body>
